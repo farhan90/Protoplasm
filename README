@@ -1,3 +1,6 @@
 This was a project for my compiler design course. Its a compiler for a simple
 language called protoplasm which is a simple calculator language
 The compiler was built in python and using the ply library.
+
+The compiler will create a MIPS assembly code for a sample program. The program should be written in a .proto files.
+
