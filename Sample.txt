@@ -1,0 +1,18 @@
+class A {
+    int x,y;
+    }
+void main(){
+    A a;
+    int b[];
+    int k;
+    k=10;
+    b=new int[3];
+    a=new A();
+    b[0]=4;
+    a.x=b[0];
+    a.y=k;
+    print(a.x);
+    print(k);
+print(a.y);
+    return void;
+    }
